@@ -8,9 +8,9 @@ const Navbar = () => {
     </>
 
     return (
-        <div className="navbar bg-base-100">
+        <div className="navbar sticky top-0 z-10 bg-slate-500 text-white">
             <div className="navbar-end hidden lg:flex">
-                <ul className="menu menu-horizontal gap-6 text-xl my-6">
+                <ul className="menu menu-horizontal gap-6 text-xl my-4">
                     {navlinks}
                 </ul>
             </div>
@@ -32,7 +32,7 @@ const Navbar = () => {
                     </div>
                     <ul
                         tabIndex={0}
-                        className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow">
+                        className="menu menu-sm bg-slate-900 dropdown-content rounded-box z-[1] mt-3 w-52 p-2 shadow">
                         {navlinks}
                     </ul>
                 </div>

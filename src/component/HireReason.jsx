@@ -27,7 +27,7 @@ const HireReason = () => {
         <section
             id="why-hire-me"
             ref={sectionRef}
-            className="py-12 bg-gradient-to-r from-blue-100 via-purple-50 to-blue-100"
+            className="py-12 bg-gradient-to-b from-blue-100 to-blue-50"
         >
             <div className="container mx-auto px-4">
                 <h2 className="text-4xl font-bold text-center mb-8">Why Hire Me?</h2>
