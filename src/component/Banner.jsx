@@ -10,7 +10,7 @@ const Banner = () => {
                     className="max-w-sm rounded-lg shadow-2xl"
                 />
                 <div>
-                    <h1 className="text-5xl font-bold">Hi, I'm Mritul Aich</h1>
+                    <h1 className="text-5xl font-bold type-writer">Hi, I'm Mritul Aich</h1>
                     <p className="py-6 text-lg">
                         A passionate Junior Web Developer with a strong foundation in HTML, CSS, and JavaScript.
                         I love creating interactive web experiences and continuously learning new technologies to
