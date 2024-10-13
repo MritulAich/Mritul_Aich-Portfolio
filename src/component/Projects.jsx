@@ -9,7 +9,7 @@ const Projects = () => {
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 px-8">
                 {/* Project 1 */}
-                <div className="card bg-white shadow-lg p-2 mb-8 rounded-lg">
+                <div className=" bg-white shadow-lg p-2 mb-8 rounded-lg">
                     <img
                         src="https://res.cloudinary.com/dvaclg6kh/image/upload/v1728795083/Screenshot_35_gvs411.png"
                         alt="Project 1"
@@ -33,7 +33,7 @@ const Projects = () => {
                 </div>
 
                 {/* Project 2 */}
-                <div className="card bg-white shadow-lg p-2 mb-8 rounded-lg">
+                <div className=" bg-white shadow-lg p-2 mb-8 rounded-lg">
                     <img
                         src="https://res.cloudinary.com/dvaclg6kh/image/upload/v1728796545/Capture-techware_d8cwvz.png"
                         alt="Project 2"
@@ -57,7 +57,7 @@ const Projects = () => {
                 </div>
 
                 {/* Project 3 */}
-                <div className="card bg-white shadow-lg p-2 mb-8 rounded-lg">
+                <div className=" bg-white shadow-lg p-2 mb-8 rounded-lg">
                     <img
                         src="https://res.cloudinary.com/dvaclg6kh/image/upload/v1728796669/Capture-tripvoyage_v2rq0c.png"
                         alt="Project 3"
@@ -81,7 +81,7 @@ const Projects = () => {
                 </div>
 
                 {/* Project 4 */}
-                <div className="card bg-white shadow-lg p-2 mb-8 rounded-lg">
+                <div className=" bg-white shadow-lg p-2 mb-8 rounded-lg">
                     <img
                         src="https://res.cloudinary.com/dvaclg6kh/image/upload/v1728797074/Capture-easystay_z6q93c.png"
                         alt="Project 4"
